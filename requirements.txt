@@ -32,6 +32,7 @@ path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.5
 ptyprocess==0.5
+pyproj==1.9.4
 pyzmq==15.0.0
 qtconsole==4.1.0
 requests==2.8.1
