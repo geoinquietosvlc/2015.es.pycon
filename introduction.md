@@ -60,16 +60,16 @@ We need an **Ellipsoid**
 
 (The first concept to remember)
 
-But we call it the **DATUM**
+The Ellipsoid and a couple more of things is what we call it the **DATUM**
 
-(Why we call an Ellipsoid the Datum takes several courses of Geodesy, trust me on this)
+Why there are not one but several Datums takes several courses of Geodesy, trust me on this
 
 ---
 
 Remember
 
 > The **GEO** information lays over something *mathematical* that has its own rules.
->
+
 > **THE DATUM**
 
 
