@@ -1,11 +1,11 @@
 Introduction to Spatial Data
 ============================
 
-**Spacial is Special**
+the *Geographic Data problem*
 
 or
 
-the Geographic data problem
+**Spacial is Special**
 
 ___
 
@@ -27,7 +27,7 @@ You have been told that the Earth is a sphere
 
 ___
 
-## Earth is not a sphere
+## Earth is not an orange
 
 If you are lucky you have heard the history that tells that the Earth has [the shape of an Orange](https://en.wikipedia.org/wiki/French_Geodesic_Mission#Background)
 
@@ -35,15 +35,14 @@ If you are lucky you have heard the history that tells that the Earth has [the s
 
 ___
 
-## Earth is not a sphere
+## Earth is more like a potato
 
-But the Earth has the shape of a potato
 
 ![Image of a free range potato](img/potato.jpg)
 
 ___
 
-## Earth is not a sphere
+## Earth has the shape of a potato
 
 Belive me, I know what I'm talking about
 
@@ -51,23 +50,21 @@ Belive me, I know what I'm talking about
 
 ___
 
-## Earth is not a sphere
-
-This is what we call a **Geoid**
+## Earth is a Geoid
 
 ![Image of a geoid](img/geoide.jpg)
 
 ___
 
-## Earth is not a sphere
+## Geoids are physical
 
-Although its the true shape of the Earth, we canno't measure over it.
+Although its the true shape of the Earth, we can't measure over it.
 
 ![No measure is possible](img/nomeasure.jpg)
 
 ___
 
-## Earth is not a sphere
+## For measuring we need mathematics
 
 We need an **Ellipsoid**
 
@@ -75,17 +72,27 @@ We need an **Ellipsoid**
 
 ___
 
-## Earth is not a sphere
+## Ellipsoid vs Geoid
 
-The Ellipsoid and a couple more of things is what we call it the **DATUM**
+On average, they are quite similar
 
-(Why there are not one but several Datums takes several courses of Geodesy, trust me on this)
+![Ellipsoid compared to geoid](img/ellip_vs_geoid.jpg)
 
 ___
 
-## Earth is not a sphere
+## Datum is the name of the game 
 
-Remember
+The Ellipsoid and a couple more of things is what we call:
+
+### the **DATUM**
+
+(And there are not one but several Datums, understanding this takes several courses of Geodesy, trust me on this)
+
+___
+
+## Earth is not a sphere: Conclusion
+
+*Remember*
 
 > The **GEO** information lays over something *mathematical* that has its own rules.
 
@@ -94,8 +101,55 @@ Remember
 
 ---
 
-Maps are flat (projections)
-====================================
+## Maps are flat
+
+Have you ever notice that a map / your screen monitor is **Flat**
+
+![Image of a flat screen with a map](img/flat_screen.jpg)
+
+___
+
+
+## Making things flat
+
+But you can't turn **flat** something espherical
+
+(without breaking it)
+
+![Image of a map on an orange skin](img/orange_map.jpg)
+
+___
+
+## Breaking Flat
+
+You have to choose what you want to *break*:
+
+* **Areas**
+* **Angles**
+* **Distances**
+
+In the best case you can choose two of the three.
+
+(I'm skipping several courses on Cartography with this slide, trust me on this)
+
+___
+
+## Choose your weapon!: The Projection
+
+The cartographers have some tricks for breaking things **mathematically**
+
+[![xkcd on map projections](img/map_projections.jpg)](https://xkcd.com/977/)
+
+___
+
+## Maps are flat: Conclusion
+
+*Remember*
+
+> The **GEO** information uses a *mathematical* trick to make things **flat** orderly.
+
+> **THE PROJECTION**
+
 
 ---
 
