@@ -1,5 +1,4 @@
-Introduction to Spatial Data
-============================
+# Introduction to Spatial Data
 
 the *Geographic Data problem*
 
@@ -19,19 +18,9 @@ Rules based on a reality not told in schools
 
 ---
 
-## Earth is not a sphere
+# Earth is not a sphere
 
-You have been told that the Earth is a sphere
-
-![Tipical representation of the Earth as sphere](img/sphere.jpg)
-
-___
-
-## Earth is not an orange
-
-If you are lucky you have heard the history that tells that the Earth has [the shape of an Orange](https://en.wikipedia.org/wiki/French_Geodesic_Mission#Background)
-
-![It's true, an orange as opposed to a lemon](img/orange.jpg)
+![Typical representation of the Earth as sphere](img/sphere.jpg)
 
 ___
 
@@ -44,17 +33,12 @@ ___
 
 ## Earth has the shape of a potato
 
-Belive me, I know what I'm talking about
+Believe me, I know what I'm talking about
 
 ![Image of a geoid](img/geoide.jpg)
 
 ___
 
-## Earth is a Geoid
-
-![Image of a geoid](img/geoide.jpg)
-
-___
 
 ## Geoids are physical
 
@@ -101,9 +85,7 @@ ___
 
 ---
 
-## Maps are flat
-
-Have you ever notice that a map / your screen monitor is **Flat**
+# Maps are flat
 
 ![Image of a flat screen with a map](img/flat_screen.jpg)
 
@@ -112,7 +94,7 @@ ___
 
 ## Making things flat
 
-But you can't turn **flat** something espherical
+But you can't turn **flat** something spherical
 
 (without breaking it)
 
@@ -153,17 +135,55 @@ ___
 
 ---
 
-Geodata types (raster and vector)
-====================================
+# Geo data types
+
+These one are easy
+
+Because you are more used to it
+
+___
+
+## Raster and Vector data
+
+![Raster data model](img/raster_data.jpg)
+
+![Vector data model](img/vector_data.jpg)
 
 ---
 
-OGC Simple Feature Acess data model
-====================================
+# Data model
+
+How many geometry types do you know?
+
+... Point, Line, Surface ...
+
+___
+
+## Well, it's complicated...
+
+OGC Simple Feature Access 
+
+![OGC Simple Feature Specification](img/ogc_sfs.jpg)
 
 ---
 
-lon/lat versus lat/lon
-====================================
+# lon/lat vs lat/lon
 
+There's a little bit of fuss
 
+In theory it should be lon/lat (x,y)
+
+But we are used to lat/lo
+
+## Always check things ... twice
+
+---
+
+# Recap
+
+* Know your **Datum**
+* Know your **Projection**
+* Know your **Data Type**
+* Know your **Model**
+
+## KNOW YOUR (geo) DATA!!!
