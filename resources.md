@@ -20,3 +20,4 @@
 ## Others
 
 - http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.VesmLhoaHMJ
+- http://www.ign.es/ign/layoutIn/faqgd.do 

@@ -133,6 +133,19 @@ The cartographers have some tricks for breaking things **mathematically**
 > **THE PROJECTION**
 
 
+___
+
+# SRS and CRS
+
+Toghether a *DATUM* and a *PROJECTION* make a **CRS**
+
+The most famous catalog of *CRS* is **EPSG**
+
+* EPSG:4326
+* EPSG:3857 or EPSG:900913
+* EPSG:4258
+* EPSG:25830, EPSG:25831
+
 ---
 
 # Geo data types
