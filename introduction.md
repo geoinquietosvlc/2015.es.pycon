@@ -1,3 +1,12 @@
+# Geospatial analysis with Python
+
+- Pedro-Juan Ferrer · [@vehrka](http://twitter.com/vehrka)
+- Jorge Sanz - [@xurxosanz](http://twitter.com/xurxosanz)
+- Geoinquietos Valencia - [@geoinquietosvlc](http://twitter.com/geoinquietosvlc)
+
+---
+
+
 # Introduction to Spatial Data
 
 the *Geographic Data problem*
@@ -31,7 +40,7 @@ ___
 
 ___
 
-## Earth has the shape of a potato
+## A potato
 
 Believe me, I know what I'm talking about
 
@@ -48,9 +57,9 @@ Although its the true shape of the Earth, we can't measure over it.
 
 ___
 
-## For measuring we need mathematics
+## We need mathematics
 
-We need an **Ellipsoid**
+An **Ellipsoid**
 
 ![Image of an ellipsoid](img/ellipsoid.jpg)
 
@@ -74,7 +83,7 @@ The Ellipsoid and a couple more of things is what we call:
 
 ___
 
-## Earth is not a sphere: Conclusion
+## Earth is not a sphere
 
 *Remember*
 
@@ -118,13 +127,13 @@ ___
 
 ## Choose your weapon!: The Projection
 
-The cartographers have some tricks for breaking things **mathematically**
+Cartographers have tricks for breaking things **mathematically**
 
 [![xkcd on map projections](img/map_projections.jpg)](https://xkcd.com/977/)
 
 ___
 
-## Maps are flat: Conclusion
+## Maps are flat
 
 *Remember*
 
@@ -174,7 +183,7 @@ ___
 
 ## Well, it's complicated...
 
-OGC Simple Feature Access 
+OGC **Simple** Feature Access
 
 ![OGC Simple Feature Specification](img/ogc_sfs.jpg)
 
