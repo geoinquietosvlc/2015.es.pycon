@@ -2,6 +2,7 @@
 Repo for the pycon talk about geostuff
 
 - [Notebook](http://nbviewer.ipython.org/github/geoinquietosvlc/2015.es.pycon/blob/master/geospatial-python.ipynb) 
+- [Slides](http://geoinquietosvlc.github.io/2015.es.pycon/#/)
 
 Authors:
 
